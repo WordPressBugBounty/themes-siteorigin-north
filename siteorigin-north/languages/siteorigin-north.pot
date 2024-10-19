@@ -1,0 +1,1005 @@
+# Copyright (C) 2024 siteorigin-north
+# This file is distributed under the same license as the siteorigin-north package.
+msgid ""
+msgstr ""
+"Project-Id-Version: siteorigin-north\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: SiteOrigin <support@siteorigin.com>\n"
+"Last-Translator: SiteOrigin <support@siteorigin.com>\n"
+"Report-Msgid-Bugs-To: http://www.siteorigin.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:32
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:42
+msgid "Footer Sidebar"
+msgstr ""
+
+#: footer.php:65
+msgid "Theme by %s"
+msgstr ""
+
+#: footer.php:85, inc/settings.php:252
+msgid "Scroll to top"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:197, sidebar.php:16
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:199
+msgid "Visible on posts and pages that use the default layout."
+msgstr ""
+
+#: functions.php:207
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:209
+msgid "A column will be automatically assigned to each widget inserted."
+msgstr ""
+
+#: functions.php:217
+msgid "Top Bar"
+msgstr ""
+
+#: functions.php:219
+msgid "Replaces the top bar text."
+msgstr ""
+
+#: functions.php:228, sidebar-shop.php:18
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:230
+msgid "Displays on WooCommerce pages."
+msgstr ""
+
+#: functions.php:365
+msgid "Enter Your Name"
+msgstr ""
+
+#: functions.php:366
+msgid "Enter Your Email"
+msgstr ""
+
+#: functions.php:367
+msgid "Your Site URL"
+msgstr ""
+
+#: functions.php:422
+msgid "Enter your message"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:43
+msgid "Top Bar Sidebar"
+msgstr ""
+
+#: header.php:109, inc/settings.php:1224
+msgid "Menu"
+msgstr ""
+
+#: header.php:127
+msgid "View shopping cart"
+msgstr ""
+
+#: header.php:129
+msgid " View Cart "
+msgstr ""
+
+#: header.php:150
+msgid "Open search bar"
+msgstr ""
+
+#: header.php:161
+msgid "Go back"
+msgstr ""
+
+#: header.php:176, woocommerce/product-searchform.php:24
+msgid "Search for:"
+msgstr ""
+
+#: header.php:179
+msgid "Close search bar"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search for"
+msgstr ""
+
+#: searchform.php:2, searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: inc/settings.php:9
+msgid "Branding"
+msgstr ""
+
+#: inc/settings.php:13
+msgid "Logo"
+msgstr ""
+
+#: inc/settings.php:14
+msgid "Logo displayed in your header."
+msgstr ""
+
+#: inc/settings.php:18
+msgid "Retina Logo"
+msgstr ""
+
+#: inc/settings.php:19
+msgid "A logo for use on high pixel density displays. Must be used in addition to standard logo and be exactly double the size."
+msgstr ""
+
+#: inc/settings.php:22
+msgid "Enhance your SiteOrigin theme logo functionality with the %sLogo Booster addon%s. Add an alternative logo on any page; upload a sticky logo to display on scroll."
+msgstr ""
+
+#: inc/settings.php:30
+msgid "Display Site Title Alongside Logo"
+msgstr ""
+
+#: inc/settings.php:31
+msgid "Only applicable if a Logo image has been set."
+msgstr ""
+
+#: inc/settings.php:35
+msgid "Site Description"
+msgstr ""
+
+#: inc/settings.php:36
+msgid "Show your site description below your site title or logo."
+msgstr ""
+
+#: inc/settings.php:40
+msgid "Hide SiteOrigin Attribution"
+msgstr ""
+
+#: inc/settings.php:41
+msgid "Hide the SiteOrigin link in your footer."
+msgstr ""
+
+#: inc/settings.php:46
+msgid "Accent Color"
+msgstr ""
+
+#: inc/settings.php:47
+msgid "The color used for links and various other accents."
+msgstr ""
+
+#: inc/settings.php:52
+msgid "Dark Accent Color"
+msgstr ""
+
+#: inc/settings.php:53
+msgid "A darker version of your accent color."
+msgstr ""
+
+#: inc/settings.php:59
+msgid "Fonts"
+msgstr ""
+
+#: inc/settings.php:63
+msgid "Main Font"
+msgstr ""
+
+#: inc/settings.php:64
+msgid "Main font used on your site."
+msgstr ""
+
+#: inc/settings.php:69
+msgid "Headings font"
+msgstr ""
+
+#: inc/settings.php:70
+msgid "Font used for headings."
+msgstr ""
+
+#: inc/settings.php:75
+msgid "Details font"
+msgstr ""
+
+#: inc/settings.php:76
+msgid "Font used for smaller details."
+msgstr ""
+
+#: inc/settings.php:81
+msgid "Menu font"
+msgstr ""
+
+#: inc/settings.php:82
+msgid "Font used for menu items."
+msgstr ""
+
+#: inc/settings.php:88
+msgid "Dark Text Color"
+msgstr ""
+
+#: inc/settings.php:89
+msgid "Applied to headings and titles."
+msgstr ""
+
+#: inc/settings.php:94
+msgid "Medium Text Color"
+msgstr ""
+
+#: inc/settings.php:95
+msgid "Default color applied to all text."
+msgstr ""
+
+#: inc/settings.php:100
+msgid "Light Text Color"
+msgstr ""
+
+#: inc/settings.php:101
+msgid "Applied to comments and breadcrumbs."
+msgstr ""
+
+#: inc/settings.php:106
+msgid "Meta Text Color"
+msgstr ""
+
+#: inc/settings.php:107
+msgid "Applied to bylines."
+msgstr ""
+
+#: inc/settings.php:112
+msgid "Menu Text Color"
+msgstr ""
+
+#: inc/settings.php:117
+msgid "Menu Text Hover Color"
+msgstr ""
+
+#: inc/settings.php:122
+msgid "Menu Text Current Color"
+msgstr ""
+
+#: inc/settings.php:127
+msgid "Form Field Background Color"
+msgstr ""
+
+#: inc/settings.php:134
+msgid "Icons"
+msgstr ""
+
+#: inc/settings.php:138
+msgid "Mobile menu icon"
+msgstr ""
+
+#: inc/settings.php:142
+msgid "Masthead search icon"
+msgstr ""
+
+#: inc/settings.php:146
+msgid "Close search bar icon"
+msgstr ""
+
+#: inc/settings.php:150
+msgid "Scroll to top icon"
+msgstr ""
+
+#: inc/settings.php:156
+msgid "Page Structure"
+msgstr ""
+
+#: inc/settings.php:159
+msgid "Sidebar Width"
+msgstr ""
+
+#: inc/settings.php:165
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/settings.php:167, inc/settings.php:499
+msgid "Right"
+msgstr ""
+
+#: inc/settings.php:168, inc/settings.php:498
+msgid "Left"
+msgstr ""
+
+#: inc/settings.php:174
+msgid "Header"
+msgstr ""
+
+#: inc/settings.php:178
+msgid "Header layout"
+msgstr ""
+
+#: inc/settings.php:180, inc/settings.php:1290, inc/settings.php:1302
+msgid "Default"
+msgstr ""
+
+#: inc/settings.php:181
+msgid "Centered"
+msgstr ""
+
+#: inc/settings.php:186
+msgid "Text Above"
+msgstr ""
+
+#: inc/settings.php:187
+msgid "Text that goes above the main header."
+msgstr ""
+
+#: inc/settings.php:192, inc/settings.php:418
+msgid "Background Color"
+msgstr ""
+
+#: inc/settings.php:197
+msgid "Background Top Color"
+msgstr ""
+
+#: inc/settings.php:202, inc/settings.php:423
+msgid "Border Color"
+msgstr ""
+
+#: inc/settings.php:207, inc/settings.php:428
+msgid "Border Width"
+msgstr ""
+
+#: inc/settings.php:212
+msgid "Padding"
+msgstr ""
+
+#: inc/settings.php:217
+msgid "Top Bar Widgets Padding"
+msgstr ""
+
+#: inc/settings.php:222
+msgid "Bottom Margin"
+msgstr ""
+
+#: inc/settings.php:228
+msgid "Navigation"
+msgstr ""
+
+#: inc/settings.php:232
+msgid "Menu search"
+msgstr ""
+
+#: inc/settings.php:233
+msgid "Display search in main menu"
+msgstr ""
+
+#: inc/settings.php:237
+msgid "Sticky menu"
+msgstr ""
+
+#: inc/settings.php:238
+msgid "Stick menu to top of screen"
+msgstr ""
+
+#: inc/settings.php:242
+msgid "Sticky menu scales logo"
+msgstr ""
+
+#: inc/settings.php:243
+msgid "Should the main logo be downscaled when scrolling"
+msgstr ""
+
+#: inc/settings.php:247, inc/template-tags.php:101
+msgid "Post navigation"
+msgstr ""
+
+#: inc/settings.php:248
+msgid "Display next and previous post navigation"
+msgstr ""
+
+#: inc/settings.php:253
+msgid "Display a scroll to top button"
+msgstr ""
+
+#: inc/settings.php:257
+msgid "Scroll to top on mobile"
+msgstr ""
+
+#: inc/settings.php:258
+msgid "Display the scroll to top button on smaller screens"
+msgstr ""
+
+#: inc/settings.php:262
+msgid "Smooth scroll"
+msgstr ""
+
+#: inc/settings.php:263
+msgid "Smooth scroll for internal anchor links"
+msgstr ""
+
+#: inc/settings.php:268
+msgid "Blog"
+msgstr ""
+
+#: inc/settings.php:272
+msgid "Featured image on archive"
+msgstr ""
+
+#: inc/settings.php:276
+msgid "Archive Post Content"
+msgstr ""
+
+#: inc/settings.php:277
+msgid "Choose how to display your post content on blog and archive pages. Select Full Post Content if using the \"more\" quicktag."
+msgstr ""
+
+#: inc/settings.php:279
+msgid "Full Post Content"
+msgstr ""
+
+#: inc/settings.php:280
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/settings.php:285
+msgid "Read More Text"
+msgstr ""
+
+#: inc/settings.php:286
+msgid "The button text displayed when posts are split using the \"more\" quicktag."
+msgstr ""
+
+#: inc/settings.php:290
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/settings.php:291
+msgid "If no manual post excerpt is added one will be generated. How many words should it be? Only applicable if Post Excerpt has been selected from the Archive Post Content setting."
+msgstr ""
+
+#: inc/settings.php:295
+msgid "Post Excerpt Read More Link"
+msgstr ""
+
+#: inc/settings.php:296
+msgid "Display the Read More Text below the post excerpt. Only applicable if Post Excerpt has been selected from the Archive Post Content setting."
+msgstr ""
+
+#: inc/settings.php:300
+msgid "Featured image on single"
+msgstr ""
+
+#: inc/settings.php:304
+msgid "Display author box on single"
+msgstr ""
+
+#: inc/settings.php:308
+msgid "Display date"
+msgstr ""
+
+#: inc/settings.php:312
+msgid "Display author"
+msgstr ""
+
+#: inc/settings.php:316
+msgid "Display comment count"
+msgstr ""
+
+#: inc/settings.php:320
+msgid "Ajax Comments"
+msgstr ""
+
+#: inc/settings.php:321
+msgid "Keep the conversation flowing with ajax loading comments."
+msgstr ""
+
+#: inc/settings.php:327
+msgid "Responsive"
+msgstr ""
+
+#: inc/settings.php:331
+msgid "Disable Responsive Layout"
+msgstr ""
+
+#: inc/settings.php:335
+msgid "Mobile Menu Text"
+msgstr ""
+
+#: inc/settings.php:339
+msgid "Mobile Menu Text Color"
+msgstr ""
+
+#: inc/settings.php:344
+msgid "Mobile Menu Icon Color"
+msgstr ""
+
+#: inc/settings.php:348
+msgid "Menu Breakpoint"
+msgstr ""
+
+#: inc/settings.php:350
+msgid "Screen width in px."
+msgstr ""
+
+#: inc/settings.php:354
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: inc/settings.php:359
+msgid "Mobile Menu Background Opacity"
+msgstr ""
+
+#: inc/settings.php:367
+msgid "Mobile Menu Dropdown Text Color"
+msgstr ""
+
+#: inc/settings.php:372
+msgid "Use Fitvids"
+msgstr ""
+
+#: inc/settings.php:373
+msgid "Include FitVids.js for fluid width video embeds."
+msgstr ""
+
+#: inc/settings.php:378
+msgid "Footer"
+msgstr ""
+
+#: inc/settings.php:382
+msgid "Footer Text"
+msgstr ""
+
+#: inc/settings.php:383
+msgid "{sitename} and {year} are your site's name and current year"
+msgstr ""
+
+#: inc/settings.php:388
+msgid "Privacy Policy Link"
+msgstr ""
+
+#: inc/settings.php:389
+msgid "Display the Privacy Policy page link."
+msgstr ""
+
+#: inc/settings.php:393
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/settings.php:398
+msgid "Text Color"
+msgstr ""
+
+#: inc/settings.php:403
+msgid "Link Color"
+msgstr ""
+
+#: inc/settings.php:408
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/settings.php:413
+msgid "Constrain"
+msgstr ""
+
+#: inc/settings.php:414
+msgid "Constrain the footer width"
+msgstr ""
+
+#: inc/settings.php:433
+msgid "Top Padding"
+msgstr ""
+
+#: inc/settings.php:438
+msgid "Widget Side Padding"
+msgstr ""
+
+#: inc/settings.php:439
+msgid "Set the left and right padding for each widget."
+msgstr ""
+
+#: inc/settings.php:444
+msgid "Top Margin"
+msgstr ""
+
+#: inc/settings.php:460
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/settings.php:464
+msgid "Number of Products per Row"
+msgstr ""
+
+#: inc/settings.php:465
+msgid "Set the number of products per row on shop archive pages."
+msgstr ""
+
+#: inc/settings.php:473
+msgid "Equalize Product Rows"
+msgstr ""
+
+#: inc/settings.php:474
+msgid "Equalize product row heights on shop archive pages."
+msgstr ""
+
+#: inc/settings.php:479
+msgid "Display Cart"
+msgstr ""
+
+#: inc/settings.php:480
+msgid "Display WooCommerce cart in the main menu."
+msgstr ""
+
+#: inc/settings.php:485
+msgid "Display Cart in Checkout"
+msgstr ""
+
+#: inc/settings.php:486
+msgid "Display WooCommerce cart in the main menu on cart and checkout page."
+msgstr ""
+
+#: inc/settings.php:491
+msgid "Display Quick View button"
+msgstr ""
+
+#: inc/settings.php:496
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: inc/settings.php:500
+msgid "None"
+msgstr ""
+
+#: inc/settings.php:1234
+msgid "Continue reading"
+msgstr ""
+
+#: inc/settings.php:1245
+msgid "Copyright &copy; {year} {sitename}"
+msgstr ""
+
+#: inc/settings.php:1288
+msgid "Page Layout"
+msgstr ""
+
+#: inc/settings.php:1291
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/settings.php:1292
+msgid "Full Width"
+msgstr ""
+
+#: inc/settings.php:1293
+msgid "Full Width, With Sidebar"
+msgstr ""
+
+#: inc/settings.php:1294
+msgid "Stripped"
+msgstr ""
+
+#: inc/settings.php:1300
+msgid "Menu Position"
+msgstr ""
+
+#: inc/settings.php:1303
+msgid "Overlaps Content"
+msgstr ""
+
+#: inc/settings.php:1309
+msgid "Page Title"
+msgstr ""
+
+#: inc/settings.php:1310, inc/settings.php:1318
+msgid "Display"
+msgstr ""
+
+#: inc/settings.php:1311
+msgid "Display the page title on this page."
+msgstr ""
+
+#: inc/settings.php:1317
+msgid "Page Featured Image"
+msgstr ""
+
+#: inc/settings.php:1319
+msgid "Display the page featured image on this page."
+msgstr ""
+
+#: inc/settings.php:1325
+msgid "Masthead Bottom Margin"
+msgstr ""
+
+#: inc/settings.php:1326, inc/settings.php:1333
+msgid "Enable"
+msgstr ""
+
+#: inc/settings.php:1327
+msgid "Include the margin below the masthead (top area) of your site."
+msgstr ""
+
+#: inc/settings.php:1332
+msgid "Footer Top Margin"
+msgstr ""
+
+#: inc/settings.php:1334
+msgid "Include the margin above your footer."
+msgstr ""
+
+#: inc/settings.php:1339
+msgid "Hide Masthead"
+msgstr ""
+
+#: inc/settings.php:1340, inc/settings.php:1347
+msgid "Hide"
+msgstr ""
+
+#: inc/settings.php:1341
+msgid "Hide the masthead on this page."
+msgstr ""
+
+#: inc/settings.php:1346
+msgid "Hide Footer Widgets"
+msgstr ""
+
+#: inc/settings.php:1348
+msgid "Hide the footer widgets on this page."
+msgstr ""
+
+#: inc/settings.php:1427
+msgid "SiteOrigin North is a simple, customizable WordPress theme. Check out this video to get an idea of what it has to offer."
+msgstr ""
+
+#: inc/siteorigin-panels.php:9
+msgid "Page Builder"
+msgstr ""
+
+#: inc/siteorigin-panels.php:10
+msgid "Custom Home Page Builder"
+msgstr ""
+
+#: inc/siteorigin-panels.php:11
+msgid "Home Page"
+msgstr ""
+
+#: inc/siteorigin-panels.php:12
+msgid "Install Page Builder Plugin"
+msgstr ""
+
+#: inc/siteorigin-panels.php:13
+msgid "On"
+msgstr ""
+
+#: inc/siteorigin-panels.php:14
+msgid "Off"
+msgstr ""
+
+#: inc/siteorigin-panels.php:15
+msgid "SiteOrigin North supports Page Builder to create beautifully proportioned column based content."
+msgstr ""
+
+#: inc/template-tags.php:20
+msgid "Home"
+msgstr ""
+
+#: inc/template-tags.php:137
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:142
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:187
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:190
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:207
+msgid "View posts by "
+msgstr ""
+
+#: inc/template-tags.php:222
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:222
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:222
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:268
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:340
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: template-parts/content-gallery.php:32, template-parts/content-image.php:23, template-parts/content-video.php:23, template-parts/content.php:15
+msgid "Open post"
+msgstr ""
+
+#: template-parts/content-gallery.php:71, template-parts/content-image.php:62, template-parts/content-video.php:62, template-parts/content.php:37
+msgid "<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-gallery.php:82, template-parts/content-image.php:74, template-parts/content-page.php:28, template-parts/content-single.php:35, template-parts/content-video.php:74, template-parts/content.php:51
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: woocommerce/functions.php:217
+msgid "Quick View"
+msgstr ""
+
+#: woocommerce/functions.php:314
+msgid "This is a demo store for testing purposes &mdash; no orders shall be fulfilled."
+msgstr ""
+
+#: woocommerce/functions.php:317
+msgid "Dismiss"
+msgstr ""
+
+#: woocommerce/functions.php:354
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/functions.php:358
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: admin/about/page-customize.php:1
+msgid "Unlimited Customization"
+msgstr ""
+
+#: admin/about/page-customize.php:3
+msgid "North is easy to customize, right inside the %sWordPress Customizer%s."
+msgstr ""
+
+#: admin/about/page-customize.php:4
+msgid "If there's something else you need to customize, then try out our free %sSiteOrigin CSS%s plugin."
+msgstr ""
+
+#: admin/about/page-free.php:1
+msgid "Forever Free"
+msgstr ""
+
+#: admin/about/page-free.php:3
+msgid "North is a completely free WordPress theme."
+msgstr ""
+
+#: admin/about/page-free.php:4
+msgid "We'll continue developing and enhancing it for years to come."
+msgstr ""
+
+#: admin/about/page-github.php:1
+msgid "Developed on Github"
+msgstr ""
+
+#: admin/about/page-github.php:4
+msgid "North is actively %sdeveloped on Github%s."
+msgstr ""
+
+#: admin/about/page-github.php:5
+msgid "You can watch what's happening with its development and even make contributions yourself."
+msgstr ""
+
+#: admin/about/page-page-builder.php:1
+msgid "Enhanced by Page Builder"
+msgstr ""
+
+#: admin/about/page-page-builder.php:3
+msgid "North integrates, beautifully, with our %sfree Page Builder%s plugin."
+msgstr ""
+
+#: admin/about/page-page-builder.php:4
+msgid "This powerful plugin gives you full drag and drop capabilities right inside North."
+msgstr ""
+
+#: admin/about/page-support.php:1
+msgid "Support and Documentation"
+msgstr ""
+
+#: admin/about/page-support.php:3
+msgid "Our dedicated support team is ready to help you over on our %sfree support forums%s."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:25
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/single-product/meta-undertitle.php:18, woocommerce/single-product/meta.php:29
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta-undertitle.php:18, woocommerce/single-product/meta.php:29
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:33
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
