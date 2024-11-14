@@ -910,7 +910,7 @@ msgstr ""
 msgid "Continue Shopping"
 msgstr ""
 
-#: woocommerce/functions.php:358
+#: woocommerce/functions.php:358, woocommerce/checkout/form-checkout.php:32
 msgid "Checkout"
 msgstr ""
 
