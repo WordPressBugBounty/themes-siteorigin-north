@@ -866,15 +866,15 @@ msgstr ""
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
-#: template-parts/content-gallery.php:32, template-parts/content-image.php:23, template-parts/content-video.php:23, template-parts/content.php:15
+#: inc/template-tags.php:605
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-gallery.php:30, template-parts/content-image.php:23, template-parts/content-video.php:23, template-parts/content.php:15
 msgid "Open post"
 msgstr ""
 
-#: template-parts/content-gallery.php:71, template-parts/content-image.php:62, template-parts/content-video.php:62, template-parts/content.php:37
-msgid "<span class=\"screen-reader-text\"> \"%s\"</span>"
-msgstr ""
-
-#: template-parts/content-gallery.php:82, template-parts/content-image.php:74, template-parts/content-page.php:28, template-parts/content-single.php:35, template-parts/content-video.php:74, template-parts/content.php:51
+#: template-parts/content-gallery.php:75, template-parts/content-image.php:67, template-parts/content-page.php:28, template-parts/content-single.php:35, template-parts/content-video.php:67, template-parts/content.php:38
 msgid "Pages:"
 msgstr ""
 
