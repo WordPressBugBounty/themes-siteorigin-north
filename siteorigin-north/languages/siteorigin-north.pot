@@ -1,4 +1,4 @@
-# Copyright (C) 2024 siteorigin-north
+# Copyright (C) 2025 siteorigin-north
 # This file is distributed under the same license as the siteorigin-north package.
 msgid ""
 msgstr ""
@@ -984,21 +984,21 @@ msgstr ""
 msgid "You must be logged in to checkout."
 msgstr ""
 
-#: woocommerce/single-product/meta-undertitle.php:18, woocommerce/single-product/meta.php:29
+#: woocommerce/single-product/meta-undertitle.php:18, woocommerce/single-product/meta.php:37
 msgid "SKU:"
 msgstr ""
 
-#: woocommerce/single-product/meta-undertitle.php:18, woocommerce/single-product/meta.php:29
+#: woocommerce/single-product/meta-undertitle.php:18, woocommerce/single-product/meta.php:37
 msgid "N/A"
 msgstr ""
 
-#: woocommerce/single-product/meta.php:33
+#: woocommerce/single-product/meta.php:41
 msgid "Category:"
 msgid_plural "Categories:"
 msgstr[0] ""
 msgstr[1] ""
 
-#: woocommerce/single-product/meta.php:35
+#: woocommerce/single-product/meta.php:43
 msgid "Tag:"
 msgid_plural "Tags:"
 msgstr[0] ""
