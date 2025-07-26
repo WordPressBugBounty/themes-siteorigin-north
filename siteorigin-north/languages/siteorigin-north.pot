@@ -894,23 +894,23 @@ msgstr ""
 msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr ""
 
-#: woocommerce/functions.php:217
+#: woocommerce/functions.php:225
 msgid "Quick View"
 msgstr ""
 
-#: woocommerce/functions.php:314
+#: woocommerce/functions.php:322
 msgid "This is a demo store for testing purposes &mdash; no orders shall be fulfilled."
 msgstr ""
 
-#: woocommerce/functions.php:317
+#: woocommerce/functions.php:325
 msgid "Dismiss"
 msgstr ""
 
-#: woocommerce/functions.php:354
+#: woocommerce/functions.php:362
 msgid "Continue Shopping"
 msgstr ""
 
-#: woocommerce/functions.php:358, woocommerce/checkout/form-checkout.php:32
+#: woocommerce/functions.php:366, woocommerce/checkout/form-checkout.php:32
 msgid "Checkout"
 msgstr ""
 
