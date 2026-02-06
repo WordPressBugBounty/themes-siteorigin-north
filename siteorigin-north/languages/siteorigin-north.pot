@@ -57,7 +57,7 @@ msgstr ""
 msgid "Theme by %s"
 msgstr ""
 
-#: footer.php:85, inc/settings.php:252
+#: footer.php:85, inc/settings.php:272
 msgid "Scroll to top"
 msgstr ""
 
@@ -121,7 +121,7 @@ msgstr ""
 msgid "Top Bar Sidebar"
 msgstr ""
 
-#: header.php:109, inc/settings.php:1224
+#: header.php:109, inc/settings.php:1253
 msgid "Menu"
 msgstr ""
 
@@ -341,11 +341,11 @@ msgstr ""
 msgid "Sidebar Position"
 msgstr ""
 
-#: inc/settings.php:167, inc/settings.php:499
+#: inc/settings.php:167, inc/settings.php:519
 msgid "Right"
 msgstr ""
 
-#: inc/settings.php:168, inc/settings.php:498
+#: inc/settings.php:168, inc/settings.php:518
 msgid "Left"
 msgstr ""
 
@@ -353,439 +353,455 @@ msgstr ""
 msgid "Header"
 msgstr ""
 
-#: inc/settings.php:178
-msgid "Header layout"
-msgstr ""
-
-#: inc/settings.php:180, inc/settings.php:1290, inc/settings.php:1302
-msgid "Default"
-msgstr ""
-
-#: inc/settings.php:181
-msgid "Centered"
-msgstr ""
-
-#: inc/settings.php:186
+#: inc/settings.php:179
 msgid "Text Above"
 msgstr ""
 
-#: inc/settings.php:187
+#: inc/settings.php:180
 msgid "Text that goes above the main header."
 msgstr ""
 
-#: inc/settings.php:192, inc/settings.php:418
-msgid "Background Color"
-msgstr ""
-
-#: inc/settings.php:197
+#: inc/settings.php:185
 msgid "Background Top Color"
 msgstr ""
 
-#: inc/settings.php:202, inc/settings.php:423
-msgid "Border Color"
+#: inc/settings.php:190
+msgid "Background Top Color Overlap Opacity"
 msgstr ""
 
-#: inc/settings.php:207, inc/settings.php:428
-msgid "Border Width"
+#: inc/settings.php:191
+msgid "Top bar background opacity when header overlaps content."
 msgstr ""
 
-#: inc/settings.php:212
-msgid "Padding"
-msgstr ""
-
-#: inc/settings.php:217
+#: inc/settings.php:199
 msgid "Top Bar Widgets Padding"
 msgstr ""
 
-#: inc/settings.php:222
-msgid "Bottom Margin"
+#: inc/settings.php:205
+msgid "Header layout"
 msgstr ""
 
-#: inc/settings.php:228
-msgid "Navigation"
+#: inc/settings.php:207, inc/settings.php:1319, inc/settings.php:1331
+msgid "Default"
 msgstr ""
 
-#: inc/settings.php:232
-msgid "Menu search"
+#: inc/settings.php:208
+msgid "Centered"
 msgstr ""
 
-#: inc/settings.php:233
-msgid "Display search in main menu"
+#: inc/settings.php:213, inc/settings.php:438
+msgid "Background Color"
+msgstr ""
+
+#: inc/settings.php:218
+msgid "Background Color Overlap Opacity"
+msgstr ""
+
+#: inc/settings.php:219
+msgid "Background opacity when header overlaps content."
+msgstr ""
+
+#: inc/settings.php:227, inc/settings.php:443
+msgid "Border Color"
+msgstr ""
+
+#: inc/settings.php:232, inc/settings.php:448
+msgid "Border Width"
 msgstr ""
 
 #: inc/settings.php:237
-msgid "Sticky menu"
-msgstr ""
-
-#: inc/settings.php:238
-msgid "Stick menu to top of screen"
+msgid "Padding"
 msgstr ""
 
 #: inc/settings.php:242
-msgid "Sticky menu scales logo"
-msgstr ""
-
-#: inc/settings.php:243
-msgid "Should the main logo be downscaled when scrolling"
-msgstr ""
-
-#: inc/settings.php:247, inc/template-tags.php:101
-msgid "Post navigation"
+msgid "Bottom Margin"
 msgstr ""
 
 #: inc/settings.php:248
-msgid "Display next and previous post navigation"
+msgid "Navigation"
+msgstr ""
+
+#: inc/settings.php:252
+msgid "Menu search"
 msgstr ""
 
 #: inc/settings.php:253
-msgid "Display a scroll to top button"
+msgid "Display search in main menu"
 msgstr ""
 
 #: inc/settings.php:257
-msgid "Scroll to top on mobile"
+msgid "Sticky menu"
 msgstr ""
 
 #: inc/settings.php:258
-msgid "Display the scroll to top button on smaller screens"
+msgid "Stick menu to top of screen"
 msgstr ""
 
 #: inc/settings.php:262
-msgid "Smooth scroll"
+msgid "Sticky menu scales logo"
 msgstr ""
 
 #: inc/settings.php:263
-msgid "Smooth scroll for internal anchor links"
+msgid "Should the main logo be downscaled when scrolling"
+msgstr ""
+
+#: inc/settings.php:267, inc/template-tags.php:101
+msgid "Post navigation"
 msgstr ""
 
 #: inc/settings.php:268
-msgid "Blog"
+msgid "Display next and previous post navigation"
 msgstr ""
 
-#: inc/settings.php:272
-msgid "Featured image on archive"
-msgstr ""
-
-#: inc/settings.php:276
-msgid "Archive Post Content"
+#: inc/settings.php:273
+msgid "Display a scroll to top button"
 msgstr ""
 
 #: inc/settings.php:277
-msgid "Choose how to display your post content on blog and archive pages. Select Full Post Content if using the \"more\" quicktag."
+msgid "Scroll to top on mobile"
 msgstr ""
 
-#: inc/settings.php:279
-msgid "Full Post Content"
+#: inc/settings.php:278
+msgid "Display the scroll to top button on smaller screens"
 msgstr ""
 
-#: inc/settings.php:280
-msgid "Post Excerpt"
+#: inc/settings.php:282
+msgid "Smooth scroll"
 msgstr ""
 
-#: inc/settings.php:285
-msgid "Read More Text"
+#: inc/settings.php:283
+msgid "Smooth scroll for internal anchor links"
 msgstr ""
 
-#: inc/settings.php:286
-msgid "The button text displayed when posts are split using the \"more\" quicktag."
+#: inc/settings.php:288
+msgid "Blog"
 msgstr ""
 
-#: inc/settings.php:290
-msgid "Excerpt Length"
-msgstr ""
-
-#: inc/settings.php:291
-msgid "If no manual post excerpt is added one will be generated. How many words should it be? Only applicable if Post Excerpt has been selected from the Archive Post Content setting."
-msgstr ""
-
-#: inc/settings.php:295
-msgid "Post Excerpt Read More Link"
+#: inc/settings.php:292
+msgid "Featured image on archive"
 msgstr ""
 
 #: inc/settings.php:296
-msgid "Display the Read More Text below the post excerpt. Only applicable if Post Excerpt has been selected from the Archive Post Content setting."
+msgid "Archive Post Content"
+msgstr ""
+
+#: inc/settings.php:297
+msgid "Choose how to display your post content on blog and archive pages. Select Full Post Content if using the \"more\" quicktag."
+msgstr ""
+
+#: inc/settings.php:299
+msgid "Full Post Content"
 msgstr ""
 
 #: inc/settings.php:300
-msgid "Featured image on single"
+msgid "Post Excerpt"
 msgstr ""
 
-#: inc/settings.php:304
-msgid "Display author box on single"
+#: inc/settings.php:305
+msgid "Read More Text"
 msgstr ""
 
-#: inc/settings.php:308
-msgid "Display date"
+#: inc/settings.php:306
+msgid "The button text displayed when posts are split using the \"more\" quicktag."
 msgstr ""
 
-#: inc/settings.php:312
-msgid "Display author"
+#: inc/settings.php:310
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/settings.php:311
+msgid "If no manual post excerpt is added one will be generated. How many words should it be? Only applicable if Post Excerpt has been selected from the Archive Post Content setting."
+msgstr ""
+
+#: inc/settings.php:315
+msgid "Post Excerpt Read More Link"
 msgstr ""
 
 #: inc/settings.php:316
-msgid "Display comment count"
+msgid "Display the Read More Text below the post excerpt. Only applicable if Post Excerpt has been selected from the Archive Post Content setting."
 msgstr ""
 
 #: inc/settings.php:320
+msgid "Featured image on single"
+msgstr ""
+
+#: inc/settings.php:324
+msgid "Display author box on single"
+msgstr ""
+
+#: inc/settings.php:328
+msgid "Display date"
+msgstr ""
+
+#: inc/settings.php:332
+msgid "Display author"
+msgstr ""
+
+#: inc/settings.php:336
+msgid "Display comment count"
+msgstr ""
+
+#: inc/settings.php:340
 msgid "Ajax Comments"
 msgstr ""
 
-#: inc/settings.php:321
+#: inc/settings.php:341
 msgid "Keep the conversation flowing with ajax loading comments."
 msgstr ""
 
-#: inc/settings.php:327
+#: inc/settings.php:347
 msgid "Responsive"
 msgstr ""
 
-#: inc/settings.php:331
+#: inc/settings.php:351
 msgid "Disable Responsive Layout"
 msgstr ""
 
-#: inc/settings.php:335
+#: inc/settings.php:355
 msgid "Mobile Menu Text"
 msgstr ""
 
-#: inc/settings.php:339
+#: inc/settings.php:359
 msgid "Mobile Menu Text Color"
 msgstr ""
 
-#: inc/settings.php:344
+#: inc/settings.php:364
 msgid "Mobile Menu Icon Color"
 msgstr ""
 
-#: inc/settings.php:348
+#: inc/settings.php:368
 msgid "Menu Breakpoint"
 msgstr ""
 
-#: inc/settings.php:350
+#: inc/settings.php:370
 msgid "Screen width in px."
 msgstr ""
 
-#: inc/settings.php:354
+#: inc/settings.php:374
 msgid "Mobile Menu Background Color"
 msgstr ""
 
-#: inc/settings.php:359
+#: inc/settings.php:379
 msgid "Mobile Menu Background Opacity"
 msgstr ""
 
-#: inc/settings.php:367
+#: inc/settings.php:387
 msgid "Mobile Menu Dropdown Text Color"
 msgstr ""
 
-#: inc/settings.php:372
+#: inc/settings.php:392
 msgid "Use Fitvids"
 msgstr ""
 
-#: inc/settings.php:373
+#: inc/settings.php:393
 msgid "Include FitVids.js for fluid width video embeds."
 msgstr ""
 
-#: inc/settings.php:378
+#: inc/settings.php:398
 msgid "Footer"
 msgstr ""
 
-#: inc/settings.php:382
+#: inc/settings.php:402
 msgid "Footer Text"
 msgstr ""
 
-#: inc/settings.php:383
+#: inc/settings.php:403
 msgid "{sitename} and {year} are your site's name and current year"
 msgstr ""
 
-#: inc/settings.php:388
+#: inc/settings.php:408
 msgid "Privacy Policy Link"
 msgstr ""
 
-#: inc/settings.php:389
+#: inc/settings.php:409
 msgid "Display the Privacy Policy page link."
 msgstr ""
 
-#: inc/settings.php:393
+#: inc/settings.php:413
 msgid "Widget Title Color"
 msgstr ""
 
-#: inc/settings.php:398
+#: inc/settings.php:418
 msgid "Text Color"
 msgstr ""
 
-#: inc/settings.php:403
+#: inc/settings.php:423
 msgid "Link Color"
 msgstr ""
 
-#: inc/settings.php:408
+#: inc/settings.php:428
 msgid "Link Hover Color"
 msgstr ""
 
-#: inc/settings.php:413
+#: inc/settings.php:433
 msgid "Constrain"
 msgstr ""
 
-#: inc/settings.php:414
+#: inc/settings.php:434
 msgid "Constrain the footer width"
 msgstr ""
 
-#: inc/settings.php:433
+#: inc/settings.php:453
 msgid "Top Padding"
 msgstr ""
 
-#: inc/settings.php:438
+#: inc/settings.php:458
 msgid "Widget Side Padding"
 msgstr ""
 
-#: inc/settings.php:439
+#: inc/settings.php:459
 msgid "Set the left and right padding for each widget."
 msgstr ""
 
-#: inc/settings.php:444
+#: inc/settings.php:464
 msgid "Top Margin"
 msgstr ""
 
-#: inc/settings.php:460
+#: inc/settings.php:480
 msgid "WooCommerce"
 msgstr ""
 
-#: inc/settings.php:464
+#: inc/settings.php:484
 msgid "Number of Products per Row"
 msgstr ""
 
-#: inc/settings.php:465
+#: inc/settings.php:485
 msgid "Set the number of products per row on shop archive pages."
 msgstr ""
 
-#: inc/settings.php:473
+#: inc/settings.php:493
 msgid "Equalize Product Rows"
 msgstr ""
 
-#: inc/settings.php:474
+#: inc/settings.php:494
 msgid "Equalize product row heights on shop archive pages."
 msgstr ""
 
-#: inc/settings.php:479
+#: inc/settings.php:499
 msgid "Display Cart"
 msgstr ""
 
-#: inc/settings.php:480
+#: inc/settings.php:500
 msgid "Display WooCommerce cart in the main menu."
 msgstr ""
 
-#: inc/settings.php:485
+#: inc/settings.php:505
 msgid "Display Cart in Checkout"
 msgstr ""
 
-#: inc/settings.php:486
+#: inc/settings.php:506
 msgid "Display WooCommerce cart in the main menu on cart and checkout page."
 msgstr ""
 
-#: inc/settings.php:491
+#: inc/settings.php:511
 msgid "Display Quick View button"
 msgstr ""
 
-#: inc/settings.php:496
+#: inc/settings.php:516
 msgid "Shop Sidebar Position"
 msgstr ""
 
-#: inc/settings.php:500
+#: inc/settings.php:520
 msgid "None"
 msgstr ""
 
-#: inc/settings.php:1234
+#: inc/settings.php:1263
 msgid "Continue reading"
 msgstr ""
 
-#: inc/settings.php:1245
+#: inc/settings.php:1274
 msgid "Copyright &copy; {year} {sitename}"
 msgstr ""
 
-#: inc/settings.php:1288
+#: inc/settings.php:1317
 msgid "Page Layout"
 msgstr ""
 
-#: inc/settings.php:1291
+#: inc/settings.php:1320
 msgid "No Sidebar"
 msgstr ""
 
-#: inc/settings.php:1292
+#: inc/settings.php:1321
 msgid "Full Width"
 msgstr ""
 
-#: inc/settings.php:1293
+#: inc/settings.php:1322
 msgid "Full Width, With Sidebar"
 msgstr ""
 
-#: inc/settings.php:1294
+#: inc/settings.php:1323
 msgid "Stripped"
 msgstr ""
 
-#: inc/settings.php:1300
+#: inc/settings.php:1329
 msgid "Menu Position"
 msgstr ""
 
-#: inc/settings.php:1303
+#: inc/settings.php:1332
 msgid "Overlaps Content"
 msgstr ""
 
-#: inc/settings.php:1309
+#: inc/settings.php:1338
 msgid "Page Title"
 msgstr ""
 
-#: inc/settings.php:1310, inc/settings.php:1318
+#: inc/settings.php:1339, inc/settings.php:1347
 msgid "Display"
 msgstr ""
 
-#: inc/settings.php:1311
+#: inc/settings.php:1340
 msgid "Display the page title on this page."
 msgstr ""
 
-#: inc/settings.php:1317
+#: inc/settings.php:1346
 msgid "Page Featured Image"
 msgstr ""
 
-#: inc/settings.php:1319
+#: inc/settings.php:1348
 msgid "Display the page featured image on this page."
 msgstr ""
 
-#: inc/settings.php:1325
+#: inc/settings.php:1354
 msgid "Masthead Bottom Margin"
 msgstr ""
 
-#: inc/settings.php:1326, inc/settings.php:1333
+#: inc/settings.php:1355, inc/settings.php:1362
 msgid "Enable"
 msgstr ""
 
-#: inc/settings.php:1327
+#: inc/settings.php:1356
 msgid "Include the margin below the masthead (top area) of your site."
 msgstr ""
 
-#: inc/settings.php:1332
+#: inc/settings.php:1361
 msgid "Footer Top Margin"
 msgstr ""
 
-#: inc/settings.php:1334
+#: inc/settings.php:1363
 msgid "Include the margin above your footer."
 msgstr ""
 
-#: inc/settings.php:1339
+#: inc/settings.php:1368
 msgid "Hide Masthead"
 msgstr ""
 
-#: inc/settings.php:1340, inc/settings.php:1347
+#: inc/settings.php:1369, inc/settings.php:1376
 msgid "Hide"
 msgstr ""
 
-#: inc/settings.php:1341
+#: inc/settings.php:1370
 msgid "Hide the masthead on this page."
 msgstr ""
 
-#: inc/settings.php:1346
+#: inc/settings.php:1375
 msgid "Hide Footer Widgets"
 msgstr ""
 
-#: inc/settings.php:1348
+#: inc/settings.php:1377
 msgid "Hide the footer widgets on this page."
 msgstr ""
 
-#: inc/settings.php:1427
+#: inc/settings.php:1456
 msgid "SiteOrigin North is a simple, customizable WordPress theme. Check out this video to get an idea of what it has to offer."
 msgstr ""
 
