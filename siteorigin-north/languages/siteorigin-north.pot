@@ -1,4 +1,4 @@
-# Copyright (C) 2025 siteorigin-north
+# Copyright (C) 2026 siteorigin-north
 # This file is distributed under the same license as the siteorigin-north package.
 msgid ""
 msgstr ""
@@ -141,11 +141,7 @@ msgstr ""
 msgid "Go back"
 msgstr ""
 
-#: header.php:176, woocommerce/product-searchform.php:24
-msgid "Search for:"
-msgstr ""
-
-#: header.php:179
+#: header.php:178
 msgid "Close search bar"
 msgstr ""
 
@@ -928,6 +924,10 @@ msgstr ""
 
 #: woocommerce/functions.php:366, woocommerce/checkout/form-checkout.php:32
 msgid "Checkout"
+msgstr ""
+
+#: woocommerce/product-searchform.php:24
+msgid "Search for:"
 msgstr ""
 
 #: woocommerce/product-searchform.php:25
